@@ -1,15 +1,27 @@
 {
   "template": "skeleton.html",
-  "purpose": "page",
+  "purpose": "aggregator",
   "fields": [
     {
-      "title": "Index page"
+      "title": "Blog"
     },
     {
       "description": "This is a main page"
     },
     {
       "index": "active"
+    }
+  ],
+  "aggregations": [
+    {
+      "posts": [
+        {
+          "welcome-post": ""
+        },
+        {
+          "another-post": ""
+        }
+      ]
     }
   ]
 }

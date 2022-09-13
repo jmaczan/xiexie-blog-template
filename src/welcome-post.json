@@ -1,0 +1,15 @@
+{
+  "template": "skeleton.html",
+  "purpose": "page",
+  "fields": [
+    {
+      "title": "Welcome post!"
+    },
+    {
+      "description": "This is my welcome post"
+    },
+    {
+      "url": "welcome-post.html"
+    }
+  ]
+}

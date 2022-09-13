@@ -1,0 +1,15 @@
+{
+  "template": "skeleton.html",
+  "purpose": "page",
+  "fields": [
+    {
+      "title": "Another post"
+    },
+    {
+      "description": "This is my another post."
+    },
+    {
+      "url": "another-post.html"
+    }
+  ]
+}
