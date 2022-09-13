@@ -23,6 +23,6 @@ Feel free to open issues or email me to ask questions
 ## License
 Free for personal use. [Email me](mailto:jedrzejpawel@maczan.pl) for a commercial license.
 
-Font VT323 is created by Peter Hull. The font's license is available [here](https://fonts.google.com/specimen/VT323/about)
+Font VT323 is created by Peter Hull. The font's license is available [here](https://fonts.google.com/specimen/VT323/about). You don't have to use this font in your blog. To change it, go to `skeleton.css`, remove first line with `@import` and change fourth line `body`'s `font-family` to anything you want to.
 
 © Copyright [Jędrzej Paweł Maczan](https://maczan.pl/). Made in [Poland](https://en.wikipedia.org/wiki/Poland), 2022
