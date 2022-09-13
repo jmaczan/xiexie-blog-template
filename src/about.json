@@ -1,0 +1,15 @@
+{
+  "template": "skeleton.html",
+  "purpose": "page",
+  "fields": [
+    {
+      "title": "About"
+    },
+    {
+      "description": "This is a subpage with info about author, or not"
+    },
+    {
+      "about": "active"
+    }
+  ]
+}

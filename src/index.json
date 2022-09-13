@@ -1,0 +1,15 @@
+{
+  "template": "skeleton.html",
+  "purpose": "page",
+  "fields": [
+    {
+      "title": "Index page"
+    },
+    {
+      "description": "This is a main page"
+    },
+    {
+      "index": "active"
+    }
+  ]
+}

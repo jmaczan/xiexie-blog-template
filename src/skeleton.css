@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "VT323";
+  src: url("VT323-Regular.ttf") format("truetype");
+}
+
+body {
+  font-family: "VT323", monospace;
+  font-size: 2rem;
+}
+
+.active::after {
+  content: "!";
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: rgb(59, 59, 59);
+}
