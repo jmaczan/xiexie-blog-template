@@ -23,4 +23,6 @@ Feel free to open issues or email me to ask questions
 ## License
 Free for personal use. [Email me](mailto:jedrzejpawel@maczan.pl) for a commercial license.
 
+Font VT323 is created by Peter Hull. The font's license is available [here](https://fonts.google.com/specimen/VT323/about)
+
 © Copyright [Jędrzej Paweł Maczan](https://maczan.pl/). Made in [Poland](https://en.wikipedia.org/wiki/Poland), 2022
